@@ -1,0 +1,28 @@
+{
+  "name": "world-of-ga",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "import-content": "sanity dataset import seed/seed.ndjson production --replace"
+  },
+  "dependencies": {
+    "@sanity/image-url": "^1.1.0",
+    "@sanity/vision": "^4.10.0",
+    "next": "^15.5.0",
+    "next-sanity": "^11.4.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "sanity": "^4.10.0",
+    "styled-components": "^6.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "typescript": "^5.8.0"
+  }
+}

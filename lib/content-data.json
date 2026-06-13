@@ -1,0 +1,465 @@
+{
+ "settings": {
+  "brand": "WORLD OF GA",
+  "photographer": "Godwin Antiedu",
+  "email": "info.garaartproductions@gmail.com",
+  "instagram": "https://www.instagram.com/capturedby_ga",
+  "youtube": "https://youtube.com/@ga_pov",
+  "linkedin": "https://www.linkedin.com/in/godwin-antiedu-92588a200",
+  "footerBlurb": "Photographer & filmmaker capturing studio, sport, music, brands and events. GA RA Art Productions."
+ },
+ "home": {
+  "headlineTop": "Captured",
+  "headlineBottom": "GA.",
+  "lede": "Let’s create memories and bring your visions to life — studio portraits, sports, music, brands and the events that matter, shot with intention and edited with soul.",
+  "hero": {
+   "src": "/img/hero-portrait.jpg",
+   "alt": "Editorial portrait session — subject in a beanie and zip-up photographed against soft panelled light"
+  },
+  "heroCaption": "Portrait session",
+  "bookingStatus": "Open — 2026",
+  "services": [
+   {
+    "title": "Photography",
+    "blurb": "Editorial portraits, match-day intensity and event coverage — composed, graded and delivered ready to publish.",
+    "items": [
+     "Studio portraits",
+     "Sports & fitness",
+     "Corporate events"
+    ]
+   },
+   {
+    "title": "Videography",
+    "blurb": "Films that move — sports reels, event recaps, interviews and music visuals cut to rhythm and story.",
+    "items": [
+     "Sports videography",
+     "Event films",
+     "Music visuals"
+    ]
+   },
+   {
+    "title": "Brand & Commercial",
+    "blurb": "Campaign imagery for clothing, products and ads — content engineered for feeds, screens and billboards.",
+    "items": [
+     "Clothing & lookbooks",
+     "Ads & commercials",
+     "Social content"
+    ]
+   }
+  ],
+  "quote": "Every frame is a memory someone gets to keep. My job is to make it worth keeping — whatever the brief, wherever the light.",
+  "quoteHighlight": "worth keeping"
+ },
+ "about": {
+  "portrait": {
+   "src": "/img/studio-03.jpg",
+   "alt": "From the studio collection — seated portrait on a green chesterfield"
+  },
+  "portraitCaption": "From the studio collection",
+  "paragraphs": [
+   "Godwin Antiedu — known to most as GA — is the photographer and filmmaker behind World of GA and GA RA Art Productions.",
+   "The work moves between worlds: tailored studio sessions, finish-line sports coverage, music visuals, clothing campaigns and the corporate events where brands meet people. What ties it together is the same promise — let’s create memories and bring your visions to life.",
+   "Every booking starts with a conversation about what you want the images to do. Then it’s planned, shot and delivered — graded, edited and ready to publish."
+  ],
+  "facts": [
+   {
+    "label": "Name",
+    "value": "Godwin Antiedu"
+   },
+   {
+    "label": "Studio",
+    "value": "GA RA Art Productions"
+   },
+   {
+    "label": "Disciplines",
+    "value": "Photography & film"
+   },
+   {
+    "label": "Email",
+    "value": "info.garaartproductions@gmail.com",
+    "href": "mailto:info.garaartproductions@gmail.com"
+   },
+   {
+    "label": "Instagram",
+    "value": "@capturedby_ga",
+    "href": "https://www.instagram.com/capturedby_ga"
+   }
+  ],
+  "steps": [
+   {
+    "title": "Brief",
+    "text": "Tell GA the vision — what you’re making, where it’ll live, and the feeling it should carry."
+   },
+   {
+    "title": "Plan",
+    "text": "Dates, locations, looks and a shot list — agreed up front so the day runs itself."
+   },
+   {
+    "title": "Shoot",
+    "text": "Photo, film or both — directed calmly and shot with intention."
+   },
+   {
+    "title": "Deliver",
+    "text": "Graded, edited and delivered online — ready for feeds, screens and print."
+   }
+  ],
+  "quote": "Bring a vision — leave with a memory that outlasts the moment."
+ },
+ "contact": {
+  "lede": "Tell GA about the shoot — date, place, vision. You’ll hear back quickly.",
+  "shootTypes": [
+   "Studio portraits",
+   "Sports",
+   "Music",
+   "Brand & commercial",
+   "Corporate event",
+   "Something else"
+  ],
+  "responseNote": "Enquiries are answered within 1–2 working days. For urgent dates, say so in the message and it’ll be prioritised.",
+  "faqs": [
+   {
+    "q": "What do you shoot?",
+    "a": "Studio portraits, sports and fitness, music content, clothing and brand campaigns, ads, and corporate events — in photo, film or both."
+   },
+   {
+    "q": "How do bookings work?",
+    "a": "Send a date and a short brief through the form or by email. You’ll get availability, a plan and a quote — then the date is locked in."
+   },
+   {
+    "q": "Do you travel?",
+    "a": "Yes — tell us where the shoot is in the brief and travel is built into the plan."
+   },
+   {
+    "q": "How are files delivered?",
+    "a": "As an edited online gallery for photos, and graded, export-ready films for video — sized for wherever they’ll live."
+   }
+  ]
+ },
+ "collections": [
+  {
+   "slug": "studio-photography",
+   "title": "Studio Photography",
+   "order": 1,
+   "kind": "photo",
+   "tags": [
+    "photo"
+   ],
+   "cover": {
+    "src": "/img/cat-studio.jpg",
+    "alt": "Studio portrait of a man in a navy suit against cream panelled walls"
+   },
+   "headlinePlain": "Studio",
+   "headlineItalic": "sessions.",
+   "discipline": "Portrait photography",
+   "year": "2026",
+   "status": "Booking now",
+   "photos": [
+    {
+     "src": "/img/studio-01.jpg",
+     "alt": "Full-length studio portrait of a man in a tailored navy suit standing against warm panelled walls",
+     "caption": "Full-length tailored portrait"
+    },
+    {
+     "src": "/img/studio-02.jpg",
+     "alt": "Half-length studio portrait in a navy suit, lit warmly against the panelled backdrop",
+     "caption": "Half-length portrait, navy suit"
+    },
+    {
+     "src": "/img/studio-03.jpg",
+     "alt": "Subject in a navy suit seated on a green chesterfield sofa during the studio session",
+     "caption": "Seated on the green chesterfield"
+    },
+    {
+     "src": "/img/cat-studio.jpg",
+     "alt": "Studio portrait of a man in a navy suit posed against cream panelled walls",
+     "caption": "Against the panelled wall"
+    }
+   ],
+   "description": "An editorial suit session against warm panelled walls — tailored navy, a green chesterfield, and light shaped to flatter. Four frames, graded with soul."
+  },
+  {
+   "slug": "sports-photography",
+   "title": "Sports Photography",
+   "order": 2,
+   "kind": "photo",
+   "tags": [
+    "photo",
+    "sports"
+   ],
+   "cover": {
+    "src": "/img/cat-sports-photo.png",
+    "alt": "Two athletes embrace at the finish line of a race"
+   },
+   "headlinePlain": "Match-day",
+   "headlineItalic": "energy.",
+   "discipline": "Sports photography",
+   "year": "2026",
+   "status": "Booking now",
+   "photos": [
+    {
+     "src": "/img/sports-01.png",
+     "alt": "Race-day gantry towering over a runner in a white cap on a bright summer morning",
+     "caption": "Under the gantry"
+    },
+    {
+     "src": "/img/sports-02.png",
+     "alt": "Two men grin into a phone selfie in the race village, one holding a microphone",
+     "caption": "Race-village selfie"
+    },
+    {
+     "src": "/img/sports-03.png",
+     "alt": "Female runner mid-race, eyes forward, with the crowd blurred along the barriers behind her",
+     "caption": "Eyes on the line"
+    },
+    {
+     "src": "/img/sports-04.png",
+     "alt": "Runner in a white tee punches the air as he crosses the finish line among other finishers",
+     "caption": "Fist up at the finish"
+    },
+    {
+     "src": "/img/sports-05.jpg",
+     "alt": "Large group of friends in workout gear posing together after an indoor fitness class",
+     "caption": "Community fitness"
+    },
+    {
+     "src": "/img/sports-06.jpg",
+     "alt": "Players in blue headbands celebrate with arms raised during an indoor ball game in a sports hall",
+     "caption": "Point won"
+    },
+    {
+     "src": "/img/sports-07.jpg",
+     "alt": "Teammates stack their hands together in a pre-game huddle on the court",
+     "caption": "Hands in"
+    },
+    {
+     "src": "/img/sports-08.jpg",
+     "alt": "Full team group photo in a sports hall, medals around necks beneath the basketball hoop",
+     "caption": "Medals in the hall"
+    },
+    {
+     "src": "/img/sports-09.jpg",
+     "alt": "Two climbers share a laugh in front of a bouldering wall studded with holds",
+     "caption": "At the bouldering wall"
+    },
+    {
+     "src": "/img/sports-10.png",
+     "alt": "Runner seen from behind walking through the race village among fellow finishers",
+     "caption": "From the sidelines"
+    },
+    {
+     "src": "/img/sports-11.png",
+     "alt": "Two runners hold each other in a long hug just past the finish line",
+     "caption": "Finish-line embrace"
+    },
+    {
+     "src": "/img/cat-sports-photo.png",
+     "alt": "Close crop of two athletes embracing at the finish line of a race",
+     "caption": "The moment after"
+    }
+   ],
+   "description": "Finish lines, battle ropes and the crowd that carries both — the community of competition and fitness, photographed where the effort actually happens."
+  },
+  {
+   "slug": "everything-music",
+   "title": "Everything Music",
+   "order": 3,
+   "kind": "photo",
+   "tags": [
+    "music",
+    "film"
+   ],
+   "cover": {
+    "src": "/img/cat-music.jpg",
+    "alt": "Two figures in embroidered varsity jackets watch the sea at golden hour"
+   },
+   "headlinePlain": "Everything",
+   "headlineItalic": "music.",
+   "discipline": "Music visuals",
+   "year": "2026",
+   "status": "Growing collection",
+   "photos": [
+    {
+     "src": "/img/music-01.jpg",
+     "alt": "Two artists in embroidered varsity jackets photographed from behind at golden hour, looking out over the water",
+     "caption": "Golden hour, varsity jackets"
+    }
+   ],
+   "description": "Music lives in motion as much as in stills — golden-hour artist content shot for the feed, with reels and visuals landing on Instagram and YouTube as the collection grows.",
+   "noteCard": {
+    "text": "More music visuals land on Instagram and YouTube as the collection grows.",
+    "primaryLabel": "Watch on YouTube",
+    "primaryHref": "https://youtube.com/@ga_pov",
+    "secondaryLabel": "Follow on Instagram",
+    "secondaryHref": "https://www.instagram.com/capturedby_ga"
+   }
+  },
+  {
+   "slug": "sports-videography",
+   "title": "Sports Videography",
+   "order": 4,
+   "kind": "video",
+   "tags": [
+    "film",
+    "sports"
+   ],
+   "cover": {
+    "src": "/img/cat-sports-video.jpg",
+    "alt": "Athlete mid battle-rope set at a competitive fitness event"
+   },
+   "headlinePlain": "Sport, in",
+   "headlineItalic": "motion.",
+   "discipline": "Videography",
+   "year": "2026",
+   "status": "Booking now",
+   "photos": [],
+   "description": "Stills freeze the moment — film lets it breathe. Race days, fitness events and competition cut to rhythm: the build-up, the effort, the release.",
+   "videoNote": "The sports films live where they move best — on YouTube. Reels and longer cuts from the same events also have a stills side, shot frame by frame.",
+   "noteCard": {
+    "text": "Reels and match films live on YouTube. The stills from the same days have a collection of their own.",
+    "primaryLabel": "Watch on YouTube",
+    "primaryHref": "https://youtube.com/@ga_pov",
+    "secondaryLabel": "See the stills",
+    "secondaryHref": "/work/sports-photography"
+   }
+  },
+  {
+   "slug": "corporate-events-photos",
+   "title": "Corporate Events — Photos",
+   "order": 5,
+   "kind": "photo",
+   "tags": [
+    "photo",
+    "events"
+   ],
+   "cover": {
+    "src": "/img/cat-corp-photo.png",
+    "alt": "Portrait in a broadcast studio in front of a stadium screen"
+   },
+   "headlinePlain": "Events,",
+   "headlineItalic": "captured.",
+   "discipline": "Event photography",
+   "year": "2026",
+   "status": "Booking now",
+   "photos": [
+    {
+     "src": "/img/corp-01.png",
+     "alt": "Portrait of a guest in a retro football shirt, arms crossed, in front of a wraparound stadium screen in a branded broadcast studio",
+     "caption": "Inside the broadcast studio"
+    },
+    {
+     "src": "/img/corp-02.png",
+     "alt": "Presenter with a microphone interviewing a guest against a branded press wall at an event launch",
+     "caption": "Media-wall interview"
+    },
+    {
+     "src": "/img/corp-03.png",
+     "alt": "Guest answering questions beside the red carpet rope line, microphones reaching into frame",
+     "caption": "On the press line"
+    },
+    {
+     "src": "/img/corp-04.png",
+     "alt": "Two guests sharing a microphone on the red carpet in front of the press wall while a phone films them",
+     "caption": "Red-carpet arrivals"
+    },
+    {
+     "src": "/img/cat-corp-photo.png",
+     "alt": "Wide portrait on set in a branded studio, the stadium screen glowing behind blue velvet sofas",
+     "caption": "On set, branded studio"
+    }
+   ],
+   "description": "From the branded studio set to the press wall — portraits, interviews and arrivals shot with editorial polish, so the night is remembered the way it felt."
+  },
+  {
+   "slug": "branding-clothing-and-more",
+   "title": "Branding, Clothing & More",
+   "order": 6,
+   "kind": "photo",
+   "tags": [
+    "commercial",
+    "brand"
+   ],
+   "cover": {
+    "src": "/img/music-01.jpg",
+    "alt": "Embroidered varsity jackets photographed from behind at golden hour"
+   },
+   "headlinePlain": "Brands, worn",
+   "headlineItalic": "well.",
+   "discipline": "Brand campaigns",
+   "year": "2026",
+   "status": "Growing collection",
+   "photos": [
+    {
+     "src": "/img/cat-music.jpg",
+     "alt": "Two figures in embroidered varsity jackets photographed from behind at golden hour, facing the sea",
+     "caption": "Varsity jacket campaign at golden hour"
+    }
+   ],
+   "description": "Campaign imagery for clothing and brands — pieces photographed on people, in real light, so the work looks the way it’s meant to be worn.",
+   "noteCard": {
+    "text": "Campaign archives live on Instagram — and new briefs are always welcome.",
+    "primaryLabel": "Follow on Instagram",
+    "primaryHref": "https://www.instagram.com/capturedby_ga",
+    "secondaryLabel": "Plan a campaign",
+    "secondaryHref": "/contact"
+   }
+  },
+  {
+   "slug": "ads-commercials",
+   "title": "Ads & Commercials",
+   "order": 7,
+   "kind": "video",
+   "tags": [
+    "film",
+    "commercial"
+   ],
+   "cover": {
+    "src": "/img/cat-ads.png",
+    "alt": "Frame from a live social commercial shoot in the city"
+   },
+   "headlinePlain": "Made to",
+   "headlineItalic": "convert.",
+   "discipline": "Commercial content",
+   "year": "2026",
+   "status": "Booking now",
+   "photos": [],
+   "description": "Commercial content built for feeds and screens — ads and social-first films shot with intention, cut to rhythm and graded to stop the scroll.",
+   "videoNote": "Got a product, a launch or a story that needs to sell itself? Send the brief — GA shoots, cuts and grades commercial content ready to publish.",
+   "noteCard": {
+    "text": "Commercial work is built around the brief — tell us what the ad needs to do.",
+    "primaryLabel": "Watch on YouTube",
+    "primaryHref": "https://youtube.com/@ga_pov",
+    "secondaryLabel": "Brief us your ad",
+    "secondaryHref": "/contact"
+   }
+  },
+  {
+   "slug": "corporate-event-videos",
+   "title": "Corporate Event Videos",
+   "order": 8,
+   "kind": "video",
+   "tags": [
+    "film",
+    "events"
+   ],
+   "cover": {
+    "src": "/img/cat-corp-video.jpg",
+    "alt": "Cinematic interview frame — subject on a chesterfield sofa in warm low light"
+   },
+   "headlinePlain": "The room,",
+   "headlineItalic": "on film.",
+   "discipline": "Event films",
+   "year": "2026",
+   "status": "Booking now",
+   "photos": [],
+   "description": "Recap films and on-camera interviews that hold on to the feeling of the room — cut to rhythm, graded warm, and ready to share the morning after.",
+   "videoNote": "Event films live in motion — the recaps and interview cuts are on YouTube. Stills from the same coverage sit in the corporate event photo collection.",
+   "noteCard": {
+    "text": "Event films and interviews live on YouTube. The photo coverage from the same rooms is here too.",
+    "primaryLabel": "Watch on YouTube",
+    "primaryHref": "https://youtube.com/@ga_pov",
+    "secondaryLabel": "See the photos",
+    "secondaryHref": "/work/corporate-events-photos"
+   }
+  }
+ ]
+}
